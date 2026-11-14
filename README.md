@@ -1,4 +1,4 @@
-# Robera_T_Mosissa
+![Hydrology and Climate — How water and climate shape each other](https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=200&section=header&text=Hydrology%20and%20Climate&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=How%20water%20and%20climate%20shape%20each%20other&descSize=17&descAlignY=55&animation=fadeIn)
 <h1 align="center">Robera Tarekegn Mosissa</h1>
 <h3 align="center">Hydroclimate Research | Water Resources Engineering</h3>
 
@@ -10,7 +10,7 @@
 ## Connect with me
 
 [![Website](https://img.shields.io/badge/Personal_Website-0e7490?style=for-the-badge)](https://roberatarekegnmosissa.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](linkedin.com/in/robera-tarekegn-mosissa-3463221a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/robera-tarekegn-mosissa-3463221a8/)
 
 ## Languages and tools
 
