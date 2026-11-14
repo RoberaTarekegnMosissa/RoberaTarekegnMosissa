@@ -8,8 +8,7 @@
 
 <p align="center">
   <sub>Source: NASA/Goddard Space Flight Center</sub>
-</p>![Hydrology and Climate — How water and climate shape each other](https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=200&section=header&text=Hydrology%20and%20Climate&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=How%20water%20and%20climate%20shape%20each%20other&descSize=17&descAlignY=55&animation=fadeIn)
-<h1 align="center">Robera Tarekegn Mosissa</h1>
+
 <h3 align="center">Hydroclimate Research | Water Resources Engineering</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RoberaTarekegnMosissa&label=Profile%20views&color=0e7490&style=flat)
