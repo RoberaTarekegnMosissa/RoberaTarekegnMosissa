@@ -2,7 +2,7 @@
   <img
     src="assets/hydrological-cycle.gif"
     alt="Animated hydrological cycle"
-    width="700"
+    width="800"
   />
 </p>
 
